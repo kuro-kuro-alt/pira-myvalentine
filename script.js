@@ -13,11 +13,11 @@ const CONFIG = {
     takeBouquetButton: "Terima hadiahnya ",
     bouquetMessage: "Yeay! Udah jadi milik kamu 💕",
     nextFlowerButton: "Next ",
-    collageTitle: "My Beautiful You",
-    collageSubtitle: "Sejak kamu hadir, hal sederhana pun terasa istimewa. Happy Valentine, my favorite person. 💕",
+    collageTitle: "Pira, Shin, Sayangku.",
+    collageSubtitle: "Sejak ada kamu di hidupku, hal sederhana pun terasa istimewa. Happy Valentine, Sayangku. Always Stay With Me 💕",
     nextCollageButton: "Satu halaman lagi… ",
     finalTitle: "Happy Valentine, My Love 💞",
-    finalMessage: `Makasih ya sudah hadir dan bikin hariku selalu terasa cukup. Kamu adalah alasan kenapa senyum itu mudah muncul. Semoga hari harimu selalu penuh kehangatan dan kebahagiaan. Aku selalu ada untukmu. Happy Valentine 💕`,
+    finalMessage: `Sayang Makasih ya udah masuk kehidupan aku, you're the best thing i could ask for. I love you so much sayang semoga hari harimu selalu penuh kehangatan dan kebahagiaan. I'm always here for you sayang setiap kamu butuh support. Maaf aku gak bisa ngasih sesuatu yang bermakna buat kamu ya sayang, I hope you like it. Happy Valentine Piwa, Shin. 💕`,
     restartButton: "Restart ",
     copyButton: "Copy Message ",
     copySuccess: "Pesan berhasil dicopy! "
@@ -367,4 +367,5 @@ document.addEventListener('DOMContentLoaded', () => {
     new ParticleSystem();
     initMouseTrail();
 });
+
 
